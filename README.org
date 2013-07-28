@@ -1,0 +1,7 @@
+TODO:
+
+- Move test code to test directory
+
+- create rock spec and install
+
+- get rid of the softlinks; should be in installed packages
